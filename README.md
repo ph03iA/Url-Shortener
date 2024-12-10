@@ -2,9 +2,6 @@
 # URL Shortener
 
 A URL Shortener made with the help of Node.js and MongoDB as Database.
-## Demo
-
-https://urlshortner-5ape.onrender.com
 
 ## Features
 
